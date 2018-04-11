@@ -1,0 +1,8 @@
+{
+	"mse_cutoff" : 150,
+	"stabilization_cutoff" : 15.0, 
+	"decay_rate" : 0.1,
+	"min_neighbors" : 3,
+	"scaleFactor" : 1.1,
+	"minSize" : [100, 100]
+}
